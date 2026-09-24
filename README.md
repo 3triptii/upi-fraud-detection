@@ -38,6 +38,18 @@ LOW     → APPROVE
 MEDIUM  → REVIEW
 HIGH    → BLOCK
 ```
+---
+
+## 🚀 Live Demo
+
+### 🌐 Frontend
+https://upi-fraud-detection-f35a.vercel.app/
+
+### ⚙️ Backend API
+https://upi-fraud-detection-api-ttyr.onrender.com/
+
+### 📚 API Documentation
+https://upi-fraud-detection-api-ttyr.onrender.com/docs
 
 ---
 
@@ -487,9 +499,7 @@ Risk Level        : HIGH
 Action            : BLOCK
 ```
 
-### Live Frontend Result
 
-![High Risk Detection](frontend/screenshots/high.png.jpg)
 
 ---
 
@@ -515,9 +525,7 @@ Risk Level        : LOW
 Action            : APPROVE
 ```
 
-### Live Frontend Result
 
-![Low Risk Detection](frontend/screenshots/low.png.jpg)
 
 ---
 
@@ -1048,4 +1056,4 @@ AI & Machine Learning
 
 ---
 
-> **Disclaimer:** This project is intended for educational, research, and portfolio demonstration purposes. It does not process real UPI transactions and should not be used as a production financial fraud prevention system without additional validation, security controls, compliance review, and monitoring.
+> **Disclaimer:** This project is intended for educational, research, and portfolio demonstration purposes. It does not process real UPI transactions and should not be used as a production financial fraud prevention system without additional validation, security controls, compliance review, and monitoring.s
